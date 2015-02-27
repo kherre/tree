@@ -1,3 +1,4 @@
+//Example 10-5
 load("bst.js");
 var nums = new BST();
 nums.insert(23);
